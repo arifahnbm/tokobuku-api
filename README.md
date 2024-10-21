@@ -2,6 +2,7 @@ Nama : Arifah Nur Basyiroh Machi
 Kelas : 2B TRPL
 NIM : 362358302018
 
+PROYEK
 TUGAS MAHASISWA
 
 1. Menambahkan validasi nama buku/judul tidak boleh kosong dan harga minimal 1000
